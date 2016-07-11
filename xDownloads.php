@@ -2,8 +2,8 @@
 /**
  * @name Downloads
  * @desc Offer download archives of important common files
- * @version v0.14
- * @author XTiv
+ * @version v0.1(160710)
+ * @author  @xopherdeep
  * @icon cloud-download-icon.png
  * @mini cloud-download
  * @see content
